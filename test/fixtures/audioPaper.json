@@ -1,0 +1,82 @@
+{
+    "member": {
+        "_id": 4,
+        "audioPaper": [
+            {
+                "_id": "1",
+                "description": "",
+                "name": "2012年09月27日11时13分35秒",
+                "count": 2,
+                "createTime": "2012-09-27T03:15:34.000Z",
+                "wordCount": 2,
+                "phraseCount": 0,
+                "random": 0,
+                "randomWordCount": 2,
+                "randomPhraseCount": 0,
+                "wordQuestion": [
+                    {
+                        "word_id": "20",
+                        "sort": 0
+                    },
+                    {
+                        "word_id": "49",
+                        "sort": 1
+                    }
+                ],
+                "englishSite": {
+                    "_id": "2",
+                    "beginTime": "2012-09-26T16:00:00.000Z",
+                    "endTime": "2013-02-27T15:59:00.000Z",
+                    "replayCount": 3,
+                    "interval": 1
+                }
+            }
+        ]
+    },
+    "word": [
+        {
+            "_id": "20",
+            "word": "day",
+            "audio": "http://127.0.0.1:1339/files/audio/day.mp3",
+            "createtime": "2012-09-27T03:08:17.000Z",
+            "type": 0,
+            "weight": 30,
+            "partOfSpeech": [
+                {
+                    "type": "n.",
+                    "chinese": "（一）天，（一）日",
+                    "sort": 6,
+                    "_id": "20"
+                },
+                {
+                    "type": "n.",
+                    "chinese": "白天；（一）天",
+                    "sort": 6,
+                    "_id": "7844"
+                },
+                {
+                    "type": null,
+                    "chinese": "（一）天；白天",
+                    "sort": 6,
+                    "_id": "10889"
+                }
+            ]
+        },
+        {
+            "_id": "49",
+            "word": "say",
+            "audio": "http://127.0.0.1:1339/files/audio/say.mp3",
+            "createtime": "2012-09-27T03:08:17.000Z",
+            "type": 0,
+            "weight": 10,
+            "partOfSpeech": [
+                {
+                    "type": "v.",
+                    "chinese": "说，讲",
+                    "sort": 6,
+                    "_id": "51"
+                }
+            ]
+        }
+    ]
+}
